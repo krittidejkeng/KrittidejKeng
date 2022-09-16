@@ -1,7 +1,7 @@
 ### Hi there I'm KenG 👋
 
 - 🔭 I’m currently working on Aware Technology Solutions (Intern).
-- 🌱 I’m currently learning Machine Leaning.
+- 🌱 I’m currently learning data engineer and machine leaning.
 - 📫 How to reach me: krittidejkeng@gmail.com
 - ⚡ Special interest in data engineer, data scientist, machine learning engineer.
 
